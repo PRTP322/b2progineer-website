@@ -1,80 +1,194 @@
-# React + Vite + Hono + Cloudflare Workers
+# html5up.net
 
-This template provides a minimal setup for building a React application with TypeScript and Vite, designed to run on Cloudflare Workers. It features hot module replacement, ESLint integration, and the flexibility of Workers deployments.
+> HTML5 UP! Responsive HTML5 and CSS3 Site Templates.
 
-![React + TypeScript + Vite + Cloudflare Workers](https://imagedelivery.net/wSMYJvS3Xw-n339CbDyDIA/fc7b4b62-442b-4769-641b-ad4422d74300/public)
+## Templates
 
-<!-- dash-content-start -->
+- [Paradigm Shift](https://zce.me/html5up/paradigm-shift)
 
-🚀 Supercharge your web development with this powerful stack:
+  ![Paradigm Shift](https://html5up.net/uploads/images/paradigm-shift.jpg)
 
-- [**React**](https://react.dev/) - A modern UI library for building interactive interfaces
-- [**Vite**](https://vite.dev/) - Lightning-fast build tooling and development server
-- [**Hono**](https://hono.dev/) - Ultralight, modern backend framework
-- [**Cloudflare Workers**](https://developers.cloudflare.com/workers/) - Edge computing platform for global deployment
+- [Massively](https://zce.me/html5up/massively)
 
-### ✨ Key Features
+  ![Massively](https://html5up.net/uploads/images/massively.jpg)
 
-- 🔥 Hot Module Replacement (HMR) for rapid development
-- 📦 TypeScript support out of the box
-- 🛠️ ESLint configuration included
-- ⚡ Zero-config deployment to Cloudflare's global network
-- 🎯 API routes with Hono's elegant routing
-- 🔄 Full-stack development setup
+- [Ethereal](https://zce.me/html5up/ethereal)
 
-Get started in minutes with local development or deploy directly via the Cloudflare dashboard. Perfect for building modern, performant web applications at the edge.
+  ![Ethereal](https://html5up.net/assets/css/images/placeholder.png)
 
-<!-- dash-content-end -->
+- [Story](https://zce.me/html5up/story)
 
-## Getting Started
+  ![Story](https://html5up.net/assets/css/images/placeholder.png)
 
-To start a new project with this template, run:
+- [Dimension](https://zce.me/html5up/dimension)
 
-```bash
-npm create cloudflare@latest -- --template=cloudflare/templates/broken-scene-f085
-```
+  ![Dimension](https://html5up.net/assets/css/images/placeholder.png)
 
-A live deployment of this template is available at:
-[https://react-vite-template.templates.workers.dev](https://react-vite-template.templates.workers.dev)
+- [Editorial](https://zce.me/html5up/editorial)
 
-## Development
+  ![Editorial](https://html5up.net/assets/css/images/placeholder.png)
 
-Install dependencies:
+- [Forty](https://zce.me/html5up/forty)
 
-```bash
-npm install
-```
+  ![Forty](https://html5up.net/assets/css/images/placeholder.png)
 
-Start the development server with:
+- [Stellar](https://zce.me/html5up/stellar)
 
-```bash
-npm run dev
-```
+  ![Stellar](https://html5up.net/assets/css/images/placeholder.png)
 
-Your application will be available at [http://localhost:5173](http://localhost:5173).
+- [Multiverse](https://zce.me/html5up/multiverse)
 
-## Production
+  ![Multiverse](https://html5up.net/assets/css/images/placeholder.png)
 
-Build your project for production:
+- [Phantom](https://zce.me/html5up/phantom)
 
-```bash
-npm run build
-```
+  ![Phantom](https://html5up.net/assets/css/images/placeholder.png)
 
-Preview your build locally:
+- [Hyperspace](https://zce.me/html5up/hyperspace)
 
-```bash
-npm run preview
-```
+  ![Hyperspace](https://html5up.net/assets/css/images/placeholder.png)
 
-Deploy your project to Cloudflare Workers:
+- [Future Imperfect](https://zce.me/html5up/future-imperfect)
 
-```bash
-npx wrangler deploy
-```
+  ![Future Imperfect](https://html5up.net/assets/css/images/placeholder.png)
 
-## Additional Resources
+- [Solid State](https://zce.me/html5up/solid-state)
 
-- [Cloudflare Workers Documentation](https://developers.cloudflare.com/workers/)
-- [Vite Documentation](https://vitejs.dev/guide/)
-- [React Documentation](https://reactjs.org/)
+  ![Solid State](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Identity](https://zce.me/html5up/identity)
+
+  ![Identity](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Lens](https://zce.me/html5up/lens)
+
+  ![Lens](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Fractal](https://zce.me/html5up/fractal)
+
+  ![Fractal](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Eventually](https://zce.me/html5up/eventually)
+
+  ![Eventually](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Spectral](https://zce.me/html5up/spectral)
+
+  ![Spectral](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Photon](https://zce.me/html5up/photon)
+
+  ![Photon](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Highlights](https://zce.me/html5up/highlights)
+
+  ![Highlights](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Landed](https://zce.me/html5up/landed)
+
+  ![Landed](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Strata](https://zce.me/html5up/strata)
+
+  ![Strata](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Read Only](https://zce.me/html5up/read-only)
+
+  ![Read Only](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Alpha](https://zce.me/html5up/alpha)
+
+  ![Alpha](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Directive](https://zce.me/html5up/directive)
+
+  ![Directive](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Aerial](https://zce.me/html5up/aerial)
+
+  ![Aerial](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Twenty](https://zce.me/html5up/twenty)
+
+  ![Twenty](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Big Picture](https://zce.me/html5up/big-picture)
+
+  ![Big Picture](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Tessellate](https://zce.me/html5up/tessellate)
+
+  ![Tessellate](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Overflow](https://zce.me/html5up/overflow)
+
+  ![Overflow](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Prologue](https://zce.me/html5up/prologue)
+
+  ![Prologue](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Helios](https://zce.me/html5up/helios)
+
+  ![Helios](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Telephasic](https://zce.me/html5up/telephasic)
+
+  ![Telephasic](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Strongly Typed](https://zce.me/html5up/strongly-typed)
+
+  ![Strongly Typed](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Parallelism](https://zce.me/html5up/parallelism)
+
+  ![Parallelism](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Escape Velocity](https://zce.me/html5up/escape-velocity)
+
+  ![Escape Velocity](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Astral](https://zce.me/html5up/astral)
+
+  ![Astral](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Striped](https://zce.me/html5up/striped)
+
+  ![Striped](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Dopetrope](https://zce.me/html5up/dopetrope)
+
+  ![Dopetrope](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Miniport](https://zce.me/html5up/miniport)
+
+  ![Miniport](https://html5up.net/assets/css/images/placeholder.png)
+
+- [TXT](https://zce.me/html5up/txt)
+
+  ![TXT](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Verti](https://zce.me/html5up/verti)
+
+  ![Verti](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Zerofour](https://zce.me/html5up/zerofour)
+
+  ![Zerofour](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Arcana](https://zce.me/html5up/arcana)
+
+  ![Arcana](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Halcyonic](https://zce.me/html5up/halcyonic)
+
+  ![Halcyonic](https://html5up.net/assets/css/images/placeholder.png)
+
+- [Minimaxing](https://zce.me/html5up/minimaxing)
+
+  ![Minimaxing](https://html5up.net/assets/css/images/placeholder.png)
+
+
+## License
+
+[Creative Commons](https://html5up.net/license) © [HTML5 UP](https://html5up.net)
